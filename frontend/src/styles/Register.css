@@ -1,0 +1,18 @@
+#form__reg {
+    background-color: #3b3b3b;
+}
+
+.icon {
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+.icon svg {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    color: #3b3b3b;
+}
+
+

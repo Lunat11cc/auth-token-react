@@ -1,1 +1,1 @@
-# Авторизация с проверкой токена React + Express + MySql
+# Токен авторизация React + Express + MySql
